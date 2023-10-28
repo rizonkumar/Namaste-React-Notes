@@ -1,3 +1,6 @@
+**If the PDF is not working, please use this Google Drive link: [Namaste React Notes on Google Drive](https://drive.google.com/drive/folders/1T588Xj0dsN-dEfcrcCt8wWwD2gLufS5g?usp=drive_link)**
+
+
 # Namaste React Notes 🚀
 
 Welcome to the "Namaste React Notes" repository! This repository contains notes and resources related to the "Namaste React Web Series," covering a wide range of topics to help you master React development. Whether you're a beginner or an experienced developer, these notes aim to provide valuable insights into various aspects of React.
